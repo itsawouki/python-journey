@@ -1,25 +1,35 @@
-# 🐍 Python
+# 🐍 Python → AI
 
 > *"Python is the first step. AI is the destination."*
 
-I started learning Python on 04/21/2026. This is where I document everything — the messy first scripts, the "aha!" moments, and eventually, the foundation for AI development.
+**Started:** 04/21/2026
+
+This is my learning archive — from the first messy script to the foundations of AI development. Every mistake, every "aha!" moment, documented.
 
 ---
 
-## 🔥 Featured Code (Priority Section)
+## 🔥 Featured Code
 
-These are the scripts I'm most proud of so far. Newest and best first.
+*My best work so far. Newest first.*
 
-| # | Script | What it teaches |
-|---|--------|----------------|
-| 001 | `simple calculator.py` | if and else |
-| 002 | `simple taskmanager.py` | simple application loop and functions |
-| 003 | `DOUNGEON ESCAPE.py` | global variables and match statement |
+| # | Script | Concept |
+|---|--------|---------|
+| 003 | `DUNGEON ESCAPE.py` | Global variables & match statements |
+| 002 | `simple taskmanager.py` | Application loops & functions |
+| 001 | `simple calculator.py` | If/else conditions |
 
-### 🚂 Current Station:
+---
+
+## 🚂 Current Station
 
 ```python
-TOPIC = "Syntax"
-PRACTICING = ["Bitwise", "Function", "Walrus operator"]
-NEXT TOPIC = "Data Structures"
+TOPIC     = "Syntax Deep Dive"
+PRACTICING = ["Bitwise operators", "Functions", "Walrus operator (:=)"]
+NEXT      = "Data Structures"
 ```
+
+---
+
+## 📜 The Journey
+
+*More scripts coming. Every day, one step closer.*
