@@ -1,8 +1,8 @@
-# 🐍 Python → AI
+# 🐍 Python
 
 > *"Python is the first step. AI is the destination."*
 
-I started learning Python on [Date]. This is where I document everything — the messy first scripts, the "aha!" moments, and eventually, the foundation for AI development.
+I started learning Python on 04/21/2026. This is where I document everything — the messy first scripts, the "aha!" moments, and eventually, the foundation for AI development.
 
 ---
 
@@ -12,7 +12,7 @@ These are the scripts I'm most proud of so far. Newest and best first.
 
 | Priority | Script | What it does | Why it matters |
 |----------|--------|--------------|----------------|
-| ⭐⭐⭐ | `[filename.py]` | [1 sentence] | [What concept it proves] |
+| ⭐⭐⭐ | `[DUNGEON ESCAPE.py]` | [1 sentence] | [What concept it proves] |
 | ⭐⭐ | `[filename.py]` | [1 sentence] | [What concept it proves] |
 | ⭐ | `[filename.py]` | [1 sentence] | [What concept it proves] |
 
