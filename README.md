@@ -16,13 +16,10 @@ These are the scripts I'm most proud of so far. Newest and best first.
 | 002 | `simple taskmanager.py` | simple application loop and functions |
 | 003 | `DOUNGEON ESCAPE.py` | global variables and match statement |
 
-### Currently featured:
+### 🚂 Current Station:
 
 ```python
-# PASTE YOUR BEST CODE SNIPPET HERE
-# Example:
-def calculate_interest(principal, rate, years):
-    return principal * (1 + rate) ** years
-
-print(calculate_interest(1000, 0.05, 10))
-# Output: 1628.89
+TOPIC = "Variables & Data Types"
+PRACTICING = ["strings", "integers", "print()"]
+NEXT = "User input"
+```
