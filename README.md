@@ -19,7 +19,7 @@ These are the scripts I'm most proud of so far. Newest and best first.
 ### 🚂 Current Station:
 
 ```python
-TOPIC = "Variables & Data Types"
-PRACTICING = ["strings", "integers", "print()"]
-NEXT = "User input"
+TOPIC = "Syntax"
+PRACTICING = ["Bitwise", "Function", "Walrus operator"]
+NEXT TOPIC = "Data Structures"
 ```
