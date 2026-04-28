@@ -10,11 +10,11 @@ I started learning Python on 04/21/2026. This is where I document everything —
 
 These are the scripts I'm most proud of so far. Newest and best first.
 
-| Priority | Script | What it does | Why it matters |
-|----------|--------|--------------|----------------|
-| ⭐⭐⭐ | `[DUNGEON ESCAPE.py]` | [1 sentence] | [What concept it proves] |
-| ⭐⭐ | `[filename.py]` | [1 sentence] | [What concept it proves] |
-| ⭐ | `[filename.py]` | [1 sentence] | [What concept it proves] |
+| # | Script | What it teaches |
+|---|--------|----------------|
+| 001 | `simple calculator.py` | if and else |
+| 002 | `simple taskmanager.py` | simple application loop and functions |
+| 003 | `DOUNGEON ESCAPE.py` | global variables and match statement |
 
 ### Currently featured:
 
